@@ -1,0 +1,138 @@
+Primeras acciones 
+Propuesta inicial de la Escuela Normal Superior Dalmacio Vélez Sársfield de Las Varillas 
+Año: 2022
+
+1.	Denominación de la carrera: 
+
+Tecnicatura Superior en Análisis de Sistemas y Desarrollo de Web (Software)
+
+
+1.1	Nivel: Superior 
+1.2	Se otorga el título de Técnico Superior en Sistemas y Desarrollo de Software
+Con posible titulación intermedia en 3 cuatrimestre de (Programador Junior)
+1.3	Modalidad: Combinada (70 % a distancia – 30 % presencial)
+1.4	Régimen de cursado: Anual – Cuatrimestral 
+1.5	Hora: 1600 horas reloj
+
+1.	Fundamentación: 
+La sociedad convergente del siglo XXI se caracteriza por el predominio de la gestión de la información, un cambio de las relaciones laborales, culturales, sociales y un cambio en la forma de pensar de los individuos. Los adelantos y descubrimientos en el campo científico y digital han provocado un significativo desarrollo de las fuerzas productivas imprimiendo transformaciones de suma importancia en todos los ámbitos de nuestra vida. Así, las ciencias informáticas han de ser un factor determinante en la evolución del mundo actual engendrada por el desarrollo científico-técnico. Un tipo de tecnología moderna genera efectos que involucran nuevas iniciativas tecnológicas las cuales, a su vez, dan lugar a nuevos desafíos a los que hay que dar respuesta.
+La informática, se considera una de las revoluciones científico técnicas más importantes de los últimos tiempos. Toda revolución tecnológica provoca una intensa reorganización de la economía y de la sociedad que podría dar la respuesta a la creciente demanda de las necesidades de desarrollo de sistemas y la temprana inserción de los alumnos de las distintas carreras en el mercado de trabajo, en donde experimentan altas exigencias laborales.
+En este marco, se funda el nuevo plan de estudios de la Tecnicatura Superior en Desarrollo de Software, con el propósito de formar técnicos que requieran generar sus propios productos y/o aplicaciones en función de sus actividades y necesidades, para desenvolverse como profesionales en empresas que se dedican a la producción de software y herramientas tecnológicas, o bien ejercer su profesión en función de la demanda de terceros u organizaciones locales o extranjeras, integrando equipos de trabajo multidisciplinarios con el objetivo de generar empresas de servicios de software.
+Por tal motivo, bajo la premisa de formar buenos técnicos en esta área altamente demandada en el mercado laboral, la Tecnicatura Superior en Análisis de Sistemas y Desarrollo de Software se propone brindar herramientas de uso habitual en las empresas, con énfasis en los distintos tipos de software: de escritorio, sistemas web y aplicaciones. La formación incluye también aspectos de seguridad informática, calidad de software, estrategias de análisis y diseños de proyectos que brinden a los estudiantes la posibilidad de desempeñarse en roles gerenciales dentro de las empresas.
+
+2.	Objetivos: 
+-	Crear y trabajar informáticos adaptados a las necesidades y exigencias del medio.  
+-	Solucionar y proponer acciones de mejora ante inconvenientes de la programación. 
+-	Liderar equipos de trabajo que involucren el desarrollo de sistemas.  
+-	Estructurar, inspeccionar y dominar los distintos sistemas para ejecutar en equipos de trabajo.  
+-	Desarrollar y auditar procesos en sistemas, calculando métricas e indicadores y control la calidad del software producido.
+
+Plan de Estudios: 
+1° Cuatrimestre: 
+-	Introducción a la Comunicación Digital (Cuatrimestral) 
+-	Programación Lógica I (Cuatrimestral) 
+-	Inglés Técnico I (Cuatrimestral) 
+-	Matemática  I (Cuatrimestral) 
+-	Base de Datos I (Cuatrimestral)
+2° Cuatrimestre: 
+-	Inglés Técnico II (Cuatrimestral)
+-	Matemática II (Cuatrimestral) 
+-	Programación Lógica II (Cuatrimestral) 
+-	Base de datos II (Cuatrimestral)
+-	Análisis y Metodología de Sistemas  (Cuatrimestral) 
+
+Anual (1° y 2° cuatrimestre)
+Laboratorio de Experimentación y Práctica Profesionalizante I (9 hs) (Anual)
+
+3° Cuatrimestre: 
+-	Matemática II  (Cuatrimestral)
+-	Programación III (Cuatrimestral)
+-	Seguridad de la Información y Ciberseguridad  (Cuatrimestral) 
+-	Base de datos III (Cuatrimestral) 
+-	Diseño de Sistemas (Cuatrimestral) 
+
+4° Cuatrimestre: 
+-	Programación IV  (Cuatrimestral)
+-	Experiencia de Usuario (Cuatrimestral)
+-	Validación y verificación de software (Cuatrimestral)
+-	Calidad de Software (Cuatrimestral)
+-	Estadística (Cuatrimestral)
+Anual (3° y 4° cuatrimestre): 
+-	Laboratorio de Experimentación y Práctica Profesionalizante II  (Anual)
+
+5° cuatrimestre: 
+-	Ética y Responsabilidad Social Empresarial (Cuatrimestral) 
+-	Interfaz gráfica (Cuatrimestral)
+-	Marketing Digital (Cuatrimestral) 
+-	Administración de Proyectos (Cuatrimestral)
+-	Organización Empresarial (Cuatrimestral)
+-	Laboratorio de Experimentación y Práctica Profesionalizante III  (Cuatrimestral)
+
+
+5.3: Contenidos que no deben dejarse pasar por alto: (No se encuentran divididos por cuatrimestres)  
+- Introducción a los medios digitales: 
+Evolución Historia de la Informática. Generaciones Términos básicos de la informática: bit, Byte, Kbyte, Mbyte, Gbyte, Tbyte, informática, información, datos, resultados, computadora, computación, Sistema informático.Hardware, Software, Firmware, Shareware Representación y tratamiento de la información: Bases numéricas, binario, Octal, hexadecimal, Representación de números, caracteres, sonido, imágenes y video.
+Hardware: Componentes físicos tecnológicos. Tipos de computadoras. Funcionamiento de las mismas. Clasificación de las computadoras. Estructura de las computadoras: Unidad Central de Proceso (CPU), Unidad Aritmética Lógico (ULA), Unidad de Control, Bus de Datos, dirección y control. Funcionamiento Interno del Computador. Procesadores Actuales. Periféricos. Unidades de entrada. Unidades de salida. Unidades de Almacenamiento. Memorias. Dispositivos Multimedia.
+Software. Tipos de Software. Ejecución de instrucciones. RISC y CISC, Procesamiento paralelo. Manipulación de datos. Lenguaje de máquina. Lenguaje ensamblador, Conceptos Generales. Lenguajes de Programación. Sistemas Operativos: evolución, Funciones, tipos de SO Bases de Datos. Tipos de Bases de Datos
+Introducción a los sistemas de Comunicaciones de Datos. Utilización de redes de computadoras. Intranet. Extensión de redes. Modelo ISO-OSI. Modelos LAN y WAN. Topologías de Redes. Técnicas de Conmutación. Topologías Físicas: bus, estrella, anillo. Cableado Estructurado.TCP/IP Esquema de Addressing, Paquetes, Protocolos.
+Internet: Servicios que ofrece; Conexiones Proveedores de servicios; Direcciones: de correo electrónico, de página Web Rangos y dominios. Protocolos. Direcciones IP. Correo electrónico: protocolos SMTP (Simple Mail Transfer Protocol) y MIME (MultiPurpose Internet Mail Extensión). Protocolo de oficina de correo POP3.Transferencia de hipertexto: protocolo HTTP (Hypertext Transfer Protocol) Transferencia de archivos: protocolos FTP (File Transfer Protocol) y TFTP (Trivial File Transfer Protocol) Acceso remoto: Telnet y SSH (Secure Shell). Sistema de Nombres de Dominio DNS (Domain Name System)
+Teléfono Celular, Redes Móviles, Sistemas Operativos, Aplicaciones, Emuladores, Software, Gestos, GPS, Código QR. 
+-	Matemática: 
+Expresiones algebraicas. Polinomios. Operaciones con polinomios. Productos notables. Factorización. Estudio de los diferentes casos. Expresiones algebraicas racionales. Cociente de polinomios. Teorema del resto. Regla de Ruffini. Raíz de un polinomio. Teorema del factor. 
+Vectores geométricos. Componentes en R2 y en R3. Representación gráfica. Operaciones en forma analítica y gráfica. Suma. Resta. Norma de un vector. Producto escalar. Ángulo entre dos vectores. Producto cruz. Producto mixto.
+Proposición. Conectivos lógicos. Tablas de verdad. Proposiciones compuestas. Leyes lógicas. Razonamientos deductivos válidos. Función proposicional.
+Conjunto. Elemento y pertenencia. Definición por comprensión y por extensión. o Igualdad. Operaciones. Inclusión. Unión. Intersección. Diferencia. Diferencia simétrica. Propiedades.
+Par ordenado. Producto cartesiano. Propiedades. Relación binaria. Propiedades. Relaciones de equivalencia. Partición. Clases de equivalencia. o Conjunto cociente. Relaciones de orden amplio y estricto, total y parcial.  Sistema de coordenadas cartesianas. Conjunto de partida y de llegada. Dominio e imagen. Función lineal. Pendiente y ordenada al origen. Paralelismo y perpendicularidad. Función cuadrática. Elementos y representación gráfica. Función exponencial y logarítmica. Definición. Representación gráfica. Propiedades. Ecuaciones exponenciales y logarítmicas.
+Algebra de Boole. Suma y productos lógicos. Propiedades y tablas. Funciones básicas. Circuitos. Compuertas. Mapas de Karnaugh.
+
+-	 Programación: 
+Introducción a la programación. Conceptos básicos en programación. Fases de desarrollo de un programa. Metodologías de programación. Lenguajes de máquina, lenguajes ensambladores y lenguajes de alto nivel. Comprensión global de un problema. Programación Estructurada.  Diagramas N-S (Nassi-Schneiderman o de Chapin). Estructura general de un algoritmo. Diseño de Algoritmos.  Estructuras Algorítmicas. Secuenciales. Condicionales. Cíclicas. Repetitivas. Diagramas de flujo. Pseudocódigo. Sintaxis y código Fuente. Compiladores e intérpretes Características de los principales lenguajes programación. Variables, constantes, operadores y expresiones o Identificadores. Tipos de datos primitivos. Palabras Reservadas La declaración de variables y tipos de variables (locales, globales, estáticas). 
+Constantes y Variables. Operadores (asignación, aritméticos, relacionales, lógicos, condicionales, precedencia). Expresiones. Comentarios. Conversión de tipos. Tipos de datos objetos. Entrada/Salida por Consola Funciones de entrada/salida de caracteres. Salida de datos con formato o Ingreso de datos con formato. Estructuras de Control: Selección o Condicional simple: Instrucción “if”. Condicional doble: Instrucción “if…else”. Anidación de condicionales. Operador ternario: operador “?”. Condicional Múltiple Instrucción “Switch”. Anidación de condicionales múltiples.
+-	Laboratorios de Investigación y Práctica Profesionalizante I:
+El campo de formación de los Laboratorios de Investigación y Práctica Profesionalizante, deberán integrar y contrastar los saberes construidos en la formación de los campos garantizando la articulación teórica-práctica en los procesos formativos dentro del instituto con el docente a cargo. 
+
+-	Base de Datos: 
+Dato e información. Diferencias. Archivos: texto y binarios. Ventajas y desventajas de ambos. Redundancia y dependencia de las aplicaciones que los utilizan. Falta de integridad. Medios de almacenamiento. Físicos. Virtuales: servidores de archivos, FTP, Cloud (nube). Orígenes de las bases de datos. Definición de una base de datos. Base de datos vs. Sistema de Gestión de Base de Datos (DBMS). Ventajas frente a archivos. Tipos de base de datos según clasificación. Estáticas vs. Dinámicas. Relacionales vs. Objetos vs. Documentos (No-SQL). Metodología de análisis y diseño de una base de datos. Relevamiento, modelo conceptual (DER) y lógico (MR).
+Definición de un Diagrama Entidad-Relación. Elementos que lo componen. Entidades. Definición del nombre en singular. Ejemplos para reconocimiento de entidades de la vida real. Diferencia entre entidad y conjunto de entidades. Atributos: simples e identificadores. Múltiples identificadores (ej: Tipo y Nro. de Documento). Relación. Grado: unaria, binaria y ternaria. Cardinalidad: 1:1, 1:N y N:N. Atributo de relación. Atributos extendidos: compuestos, multivaluados y calculados. o Entidades fuertes y débiles. Atributos discriminantes.  Jerarquía. Tipos: Inclusiva (solapada) y exclusiva. Partición: total (toda supraentidad tiene una subentidad) y parcial. Atributo discriminante. Definición de atributos claves en supraentidades.
+Definición de un modelo relacional. Elementos que lo componen: relaciones (tablas), atributos (campos o columnas) y tuplas (filas). Reglas de transformación DER a MR. Ingeniería inversa para obtener un DER a partir de un MR.
+Introducción a la Normalización. Concepto y finalidad de la Normalización. Detección de redundancia en una relación por dependencias entre atributos y su eliminación. Redundancia por espacio de almacenamiento y su eliminación. Desnormalización: agregado de redundancia para mejora de performance.
+Introducción al SQL, características del estándar, arquitecturas. Ventajas y deficiencias del SQL estándar. Lenguaje de Definición de Datos (DDL). Estructura de una Base de Datos.  Consultas simples y complejas. Subconsultas.
+Agrupamiento y funciones de agregación.  Lenguaje de Manipulación de Datos (DML): inserción multifila, actualización y eliminación de filas. o Integridad de Datos. Claves primarias y foráneas. Otras restricciones de integridad. Posibles problemas de integridad, reglas de eliminación y actualización. Vistas: concepto, ventajas y desventajas, sentencias de creación y actualización de una vista. Transacciones. 
+-	Programación II: 
+Programación modular. Ámbito de las variables. Variables globales y locales. Pasaje de parámetros o Valor devuelto por una función: “Return”. Sobrecargas de Funciones o Recursividad. Declaración y definición de un método. o Argumentos de “main”.
+Conceptos de clase. Atributos. Constructores. Métodos  Objetos. Referencias. Operador “new”.  Referencias. Literal “null”. Recolector de basura Garbage Collection o Ámbito de las variables y atributos . Ocultamiento de atributos. Objeto “this” . Atributos y métodos Estáticos Paquetes o Modificadores de Accesos. Encapsulamiento Ocultamiento de información o Métodos “Get” y “Set”.
+Vectores y matrices. Vectores (arrays unidimensionales). Declaración y construcción de un vector. Clasificació de vectores o Lectura y escritura de valores a un vector. Vectores como parámetros de funciones.  Clase “Arrays”. Operaciones con vectores: inicialización, inserción, recorrido, visualización, búsqueda, ordenamiento, copia y borrado. Matrices n-dimensionales. Operaciones con matrices. 
+Metodologías de programación.
+Introducción a ASP.Net MVC. Arquitectura Web. ASP.NET Visión Global de Aplicaciones ASP.NET (Web Pages, SPA, MVC, Web Form, Servicios Web) o Patrón MVC o ASP.NET MVC.  Controllers, Views, Models. Enrutamiento o Ciclo de vida de la aplicación vs ciclo de vida de la solicitud. Hola Mundo ASP.MVC. Ejercicios varios Enrutamiento.
+Tipo primitivo “char”. Clase “Character”. Clase “String “. Clasificación de caracteres. Inicialización de cadenas. Longitud de una cadena o Aritmética de caracteres. Comparación. Concatenación o Conversiones de caracteres. Manipulación de cadenas.
+-	Interfaz del usuario: 
+Nociones generales y elementos que componen la HCI. Directrices para crear interfaces usables seguras y funcionales en dispositivos web y móviles. Las interfaces y sus metáforas.
+Diseño de Interfaces de Usuario. Usabilidad. Interacción (Key-modal, interacción directa, lingüística, gestual). o Diseño Centrado en el Usuario (DCU). Prototipado.  ¿Qué es un Prototipo? Prototipos de interfaz de usuario esenciales. Prototipos de interfaz de usuario tradicional.  Prototipado en dispositivos móviles. Estructura de la información. El Modelo Miro, Leo, Pienso. Visualización y mapeo de datos. Similitudes y diferencias entre interfaces web y para dispositivos móviles. Adaptabilidad o Fundamentos generales de la Accesibilidad Web y para dispositivos móviles. Recomendaciones de la W3C. Sistemas de comunicación Aumentativa y Alternativa: los dispositivos móviles como comunicadores. Aplicaciones móviles adaptadas. Evaluación Heurística. Metodologías para la Evaluación Heurística. Casos de Uso (web y para dispositivos móviles).  Usabilidad en Aplicaciones Web y Móviles. Diseño de Experiencia de Usuario (UX Design).  Diseño de Interacción en Aplicaciones Web. Diseño adaptativo (Responsive Design).  Ingreso de Datos. Formularios. Frameworks para desarrollo del Front-End Responsivo.  Componentes principales. Lenguaje de Diseño. Frameworks utilizados en el mercado laboral (Materialize CSS basado en Google Material Design, etc.)
+
+Tipos de dispositivos móviles. Tipo de aplicaciones móviles. Sistemas operativos móviles. Navegadores para dispositivos móviles. Redes de telefonía y protocolos asociados.  HCI (manejo de interfaces por medio de Gestos). Componentes de Dispositivos Móviles: GPS, Cámaras, Sensores, NFC (Near Field Communication), Pantallas (Capacitivas y Resistivas). Aplicaciones Sensibles al contexto (Contexto Aware). Componentes. Dimensión y Contextos. Campos de Aplicación (m-learning, m-Government, m- commmerce). o Nuevas tecnologías móviles.
+Metodología de Diseño de Aplicaciones Móviles Nativas. o Metodología de Diseño de Sitios Web para Móviles. o Mobile First (diseñar primero para móvil) vs Mobile Responsive (adaptable).  Guía de buenas prácticas del W3C aplicadas a Aplicaciones Móviles. Especificaciones.  Validadores On line (Links, CCS, Markup, MobileOK, Validador Unificado Uso de Iconos). DDC (Default Delivery Context). Relación con los dispositivos o Emuladores: Instalables y en la Web. o Nuevas tecnologías y Frameworks asociados al desarrollo para dispositivos móviles: HTML5. Lenguajes de Estilo CSS3, Frameworks CSS3. Frameworks.
+
+-	Programación III: 
+ViewBag, ViewData, TempData, Sessión o ViewModels o ActionResults (redirecttoaction, redirect, file, json, etc)
+Introducción ADO.NET o Patrón ORM. Introducción a EF Enfoques. EF Operaciones CRUD sobre 1 entidad. Mapeo 1 a 1. 1 a muchos. Muchos a Muchos. Arquitectura MVC, capas y ORM o Herencia.
+Evolución o SOAP o XML. Ejercicios de creación y consumo de Servicios Web XML o REST Web API o JSON o Ejercicios de creación y consumo de Servicios Web JSON
+.Net Core o Introducción Core o Net Standard o Diferencias con FWK.
+Prueba del Software. Errores y Defectos. Verificación, Validación y Prueba. Relación con el Ciclo de Vida. Teoría de la prueba. Modelo V. Condiciones de Borde y Casos de Prueba. Caja Negra y Caja Blanca. Pruebas en gran escala y pequeña escala. Prueba de Unidad. Prueba de Integración. Prueba de Sistema. Prueba de Aceptación. Pruebas de Stress. Técnicas de diseño de Casos de Prueba. Estándares. Estrategias. Depuración. Prueba de Regresión. Plan de Pruebas. Gestión de defectos. o Ambientes. Separación de Ambientes. Conceptos de Administración de la configuración del Software en los diferentes ambientes.
+Ciberseguridad y Seguridad: 
+Características de la información, conceptos y términos de seguridad. Seguridad física y lógica.  Recursos y dispositivos para la seguridad. Recomendaciones generales de seguridad para el desarrollo de aplicaciones.
+Historia de la criptografía, conceptos. o Introducción a los sistemas criptográficos. Elementos teóricos de la criptografía. Algoritmos simétricos. o Algoritmos asimétricos. Algoritmos de Hash. Algoritmos públicos y privados. Http vs Https. TLS/SSL. Certificados Digitales y Firma Digital.
+Configuración segura de servidores HTTP.  Validación de entrada. o Autenticación en la Web. Autorización en la Web. Manejos de sesiones de estado. Web Services y Servicios REST.  Técnicas de autenticación de Usuarios. Administración de Usuarios y privilegios.  Aplicaciones de Terceros.
+Conceptos de Calidad. Calidad Total. Calidad del Software. Medición de Calidad. Calidad en los modelos de desarrollo de software.  Calidad en SCRUM y métodos ágiles.
+CMMi. CMM-SSE. Proyectos OWASP (ASVS, SAMM), o Normativas. Certificaciones.
+
+Marketing Digital: 
+Principios de una Innovación Digital. Introducción a Lean Startup.  Introducción a Customer Development. Lean Model Canvas. Producto viable mínimo (Minimum viable product).  Validation Board
+Generación de ideas y creatividad. Técnicas para producir ideas. Bloqueos o Mitos de la creatividad. Claves para ser creativos.
+Posicionamiento. Contenidos. Tecnología. Sencillez. Alta en buscadores. Enlaces. Etiquetas Meta. Keywords adecuados. Implementación y Configuración de Aplicaciones Web. Administración y Publicación.
+Introducción. Estrategia Comunicativa. Pilares Básicos o Estándares del Pitch. El método o Pitch de Negocios o Las 4 P.  El circulo de oro (de Simon Sinek)
+Storytelling. Historias de los Clientes. Visualización del Producto.  Servicio Digital o Información visual clave o Características vs Beneficios. 
+
+-	Ética y Responsabilidad Social Empresarial : 
+Definiciones y Conceptos Éticos y Filosóficos. Definición de Filosofía y Ética. Definición de conceptos. Origen y fin de la ética. El deber ser. Los actos del hombre y el fin de los actos humanos. Criterios de valoración moral. Ética y cultura en la globalización.
+Ética, Trabajo y Profesión. El origen de los valores Definición de conceptos (valores y virtudes morales). La influencia nuclear (ambiente familiar). La influencia periférica (factores culturales y sociales). 
+Los Valores y el Ejercicio Profesional. Valores esenciales en el ejercicio profesional. Responsabilidad. Discreción. Honestidad. Respeto.
